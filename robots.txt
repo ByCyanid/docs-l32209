@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-1dwjbc.radarsatu88.shop/sitemap.xml
